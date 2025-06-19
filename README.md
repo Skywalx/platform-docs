@@ -13,6 +13,8 @@ All documentation regarding the Skywalx developer platform
 - [ ] ‎
 4. We provide the serversync plugin etc on a repo on codeartifact for developers to put into their fat image Manual for this phase?
 - [ ] ‎
+5. Player based task autoscaling
+- [ ] ‎
 
 ### Phase 2 - Start onboarding further aqcuintances/public trusted people and minimal marketing
 1. Setup some form of image scanning and/or artifact scanning? Do we limit to our own images to tighten security?
