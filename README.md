@@ -1,6 +1,8 @@
 # Skywalx Developer platform docs
 All documentation regarding the Skywalx developer platform
 
+**Check out our [wiki](https://github.com/Skywalx/platform-docs/wiki) for platform information and info on how to deploy games on our platform**
+
 ## Roadmap 
 **NOTE: Evolving content**
 
