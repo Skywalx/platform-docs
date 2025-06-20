@@ -29,6 +29,10 @@ All documentation regarding the Skywalx developer platform
 4. More in depth billing calculation, by database units used, custom API call model for internal and 3th party apis
 - [ ] ‎
 
+5. Create a GitHub pipeline in the platform-product-base repo to build the docker image, including proper tagging etc.
+- [ ] ‎
+
+
 ### Phase 3
 1. Setup an ECR repo with user(s) that can authenticate to upload images. ﻿
 For now we will provide a guide and help setup a template pipeline on each platform that will get the image uploaded to the ECR repo. The developers themselves are responsible for building the image to start with. 
